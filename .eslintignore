@@ -1,0 +1,8 @@
+# eslint ignores hidden files by default
+!.*
+.scannerwork
+**/node_modules
+package-lock.json
+
+webpack.*.js
+dist/

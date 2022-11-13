@@ -1,0 +1,18 @@
+{
+  "DASHBOARD_DATA": {
+    "total_rewards_user": 3965,
+    "dateframe_rewards_user": 599,
+    "dateframe_rewards_company": 174.41,
+    "total_co2_user": 6302.0,
+    "dateframe_co2_user": 543.0,
+    "dateframe_co2_company": 1109.98
+  },
+  "HISTORY_DATA": [
+    { "year": 2021, "month": 11, "co2_saved": 560.0, "reward": 599 },
+    { "year": 2021, "month": 12, "co2_saved": 37.5, "reward": 0 },
+    { "year": 2022, "month": 1, "co2_saved": 232.0, "reward": 605 },
+    { "year": 2022, "month": 2, "co2_saved": 340, "reward": 12 },
+    { "year": 2022, "month": 3, "co2_saved": 0, "reward": 0 },
+    { "year": 2022, "month": 4, "co2_saved": 543.0, "reward": 599 }
+  ]
+}
